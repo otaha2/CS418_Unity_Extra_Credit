@@ -7,7 +7,7 @@ Mod #1: Speed Strip
 
 When a collision occurs with the Speed Strip, the velocity is amplfied by a force
 
-Mod #2: User Data
+Mod #2: User Data Displayed
 
 - Time taken to complete the game
 - Top Speed
